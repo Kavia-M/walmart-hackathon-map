@@ -7,7 +7,7 @@ Folow the instruction and agin make a click for next instruction.
 Whenever you make a click standing in a place where new products have arrived, the app notifies you.
 
 ## How does it works
-The app uses react-speech-kit for Speech recognition and Speech systhesis (text to voice)
+The app uses react-speech-kit for Speech recognition and Speech synthesis (text to voice)
 
 ### `npm start`
 
