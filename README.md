@@ -2,7 +2,7 @@
 ## What it does
 The app listens when it starts running. You have to say the name of place you want to go.
 Trigger the app by a click. You will get next instruction.
-Folow the instruction and agin make a click for next instruction.
+Folow the instruction and again make a click for next instruction.
 
 Whenever you make a click standing in a place where new products have arrived, the app notifies you.
 
